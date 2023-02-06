@@ -16,3 +16,5 @@ Method reference (::)
 //Reference to a constructor.;
 
 Git Training Test1
+
+Git Training Test2
