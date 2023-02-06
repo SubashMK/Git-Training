@@ -1,0 +1,16 @@
+inner class		//outerclass.innerclass innerobject = outerobject.new innerclass
+outer class		*if the inner class is static OC.IC iO = new OC.IC//
+anonymous class		//A Class without a name and can be called once
+functional interface  //@functional Interface
+lamda expression      //FI = (args) -> {};
+primitive data type VarArgs
+object in VarArgs     //(int a ,int b, Object ...objName)
+Nested Class  // (outer -- innerclass   Anonymous inner classes)
+pre defined Functional interface :
+consumer<t> ,
+biconsumer<t,u>,
+predicate, etc ;
+Method reference (::) 
+//Reference to a static method.
+//Reference to an instance method.
+//Reference to a constructor.;
